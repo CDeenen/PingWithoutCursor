@@ -1,0 +1,23 @@
+{
+    "name": "pingWithoutCursor",
+    "title": "Ping Without Cursor",
+    "description": "Allows you to ping without displaying the mouse cursor",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "CDeenen"
+        },{
+            "name": "Cybsjan"
+        }
+    ],
+    "esmodules": [
+        "./pingWithoutCursor.js"
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "url": "https://github.com/CDeenen/PingWithoutCursor",
+    "manifest": "https://github.com/CDeenen/PingWithoutCursor/releases/latest/download/module.json",
+    "download": "https://github.com/CDeenen/PingWithoutCursor/releases/download/v1.0.0/module.zip"
+}
